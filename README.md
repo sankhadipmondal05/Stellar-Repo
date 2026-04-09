@@ -63,7 +63,7 @@ Removes stored data for a given key.
 👉 *Add your deployed contract link here*
 
 Example:
-https://stellar.expert/explorer/testnet/contract/XXXXXXXXXXXX
+(https://stellar.expert/explorer/testnet/contract/CBGPIC5W5TGLJJPI4TD2KDJKEIP6VMSRCQA6QTNNA7T3AUBAMZ4WEYZ6)
 
 ---
 
